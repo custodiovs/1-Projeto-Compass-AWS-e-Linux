@@ -1,4 +1,4 @@
-# Projeto-Compass-EC2-Linux-NFS-e-APACHE-
+# Projeto Compass EC2 Linux NFS e APACHE
 
 1. Requisitos AWS
 
