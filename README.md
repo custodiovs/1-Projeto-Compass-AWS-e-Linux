@@ -61,6 +61,7 @@ sudo yum install -y httpd
 Inicie o Apache e habilite-o para iniciar no boot:
 
 sudo systemctl start httpd
+
 sudo systemctl enable httpd
 
 Verifique se o serviço está rodando:
